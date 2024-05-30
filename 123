@@ -5,7 +5,7 @@ int add(int x, int y)
 }
 int main()
 {
-
+cout<<add(34,56)<<endl;
   cout << "12432534" << endl;
   return 0;
 }
