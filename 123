@@ -1,6 +1,11 @@
 #include <iostream>
+void add(int x, int y)
+{
+	return x + y;
+}
 int main()
 {
+
   cout << "12432534" << endl;
   return 0;
 }
